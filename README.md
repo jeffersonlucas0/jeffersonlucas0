@@ -16,8 +16,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/HkKURcEfueIAAAAC/anime.gif" height="200" alt="sharingan gif" />
+  <img src="https://media.tenor.com/ZsvCMsZIXQIAAAAC/itachi-uchiha.gif" height="200" alt="Itachi Uchiha Sharingan" />
 </div>
+
 
 
 

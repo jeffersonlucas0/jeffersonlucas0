@@ -1,5 +1,9 @@
 <h1 align="center">Olá 👋Como vai?</h1>
 
+<div align="center">
+  <img src="https://media.tenor.com/IUB4P7vPbEAAAAAC/sharingan-naruto.gif" alt="Mangekyō Sharingan Itachi" height="200" />
+</div>
+
 ###
 
 <div align="center">

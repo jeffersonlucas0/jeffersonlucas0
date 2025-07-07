@@ -18,10 +18,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.tenor.com/IUB4P7vPbEAAAAAC/sharingan-naruto.gif" height="200" alt="Mangekyō Sharingan Itachi Uchiha" />
-</div>
-
-
 ###
 
